@@ -1,0 +1,64 @@
+asttokens==3.0.1
+Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938096667/work
+colorama==0.4.6
+comm==0.2.3
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///C:/Users/task_176606795043471/croot/cycler_1766068055428/work
+debugpy==1.8.21
+decorator==5.3.1
+exceptiongroup==1.3.1
+executing==2.2.1
+filelock==3.29.0
+fonttools @ file:///C:/Users/task_178107562847860/croot/fonttools_1781075761476/work
+fsspec==2026.4.0
+ipykernel==7.3.0
+ipython==8.39.0
+jedi==0.20.0
+Jinja2==3.1.6
+joblib @ file:///C:/Users/task_176786734930694/croot/joblib_1767868144277/work
+jupyter_client==8.9.1
+jupyter_core==5.9.1
+kiwisolver @ file:///C:/miniconda3/conda-bld/kiwisolver_1764159353779/work
+lightning-utilities==0.15.3
+MarkupSafe==3.0.3
+matplotlib==3.10.9
+matplotlib-inline==0.2.2
+mkl-service==2.7.2
+mkl_fft @ file:///C:/Users/task_177730052905595/croot/mkl_fft_1777300602408/work
+mkl_random @ file:///C:/Users/task_178236946736054/croot/mkl_random_1782369613178/work
+mpmath==1.3.0
+nest-asyncio2==1.7.2
+networkx==3.4.2
+numexpr @ file:///C:/Users/task_177627002151243/croot/numexpr_1776270132838/work
+numpy @ file:///C:/Users/task_177619067361524/croot/numpy_and_numpy_base_1776190783928/work/dist/numpy-2.2.5-cp310-cp310-win_amd64.whl#sha256=e129295f25119bbbeb3e2729b744b807f2683581ed661158a4abd7884645f902
+packaging==26.0
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332399653/work/dist/pandas-2.3.3-cp310-cp310-win_amd64.whl#sha256=25368e0adc93a7db0f3983502b4e57344f71af8f45ca3849f7c3833738f306aa
+parso==0.8.7
+pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
+platformdirs==4.10.0
+prompt_toolkit==3.0.52
+psutil==7.2.2
+pure_eval==0.2.3
+Pygments==2.20.0
+pyparsing @ file:///C:/miniconda3/conda-bld/pyparsing_1763973898118/work
+PyQt6==6.11.0
+PyQt6_sip @ file:///C:/Users/task_177582787509982/croot/pyqt-split_1775828391884/work/pyqt_sip
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/Users/task_178064950711397/croot/pytz_1780649991116/work
+pyzmq==27.1.0
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+scipy @ file:///C:/Users/task_177627752328296/croot/scipy_1776277626143/work/dist/scipy-1.15.3-cp310-cp310-win_amd64.whl#sha256=4b31ae66cb62ee7d0d6cb492e8af90b64e32541a8bee52f4e127b96528004419
+sip @ file:///C:/Users/task_177080700866195/croot/sip_1770807604859/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+stack-data==0.6.3
+sympy==1.14.0
+threadpoolctl @ file:///C:/miniconda3/conda-bld/threadpoolctl_1764361785970/work
+tomli @ file:///C:/Users/task_176829653256119/croot/tomli_1768296653758/work
+torch==2.12.1+cu130
+torchmetrics==1.9.0
+torchvision==0.27.1+cu130
+tornado @ file:///C:/Users/task_178231409404964/croot/tornado_1782314853640/work
+traitlets==5.15.1
+typing_extensions==4.15.0
+tzdata @ file:///home/task_177806041933677/croot/python-tzdata_1778060738968/work
+wcwidth==0.8.1
